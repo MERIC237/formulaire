@@ -10,7 +10,7 @@ body{
    form {
     width:100%;
     padding: 30px;
-    border: 1px solid #e99797;
+    border: 1px solid #b5e997;
     background: #d38989;
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
    }
@@ -26,7 +26,7 @@ body{
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #d29393;
+    border: 1px solid #968989;
     box-sizing: border-box;
    }
    
